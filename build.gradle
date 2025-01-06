@@ -1,7 +1,4 @@
-buildscript {
-	ext['tomcat.version'] = '10.1.34'
-	ext['logback.version'] = '1.5.13'
-}
+
 
 plugins {
 	id 'java'
